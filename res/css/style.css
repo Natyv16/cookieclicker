@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+
+#counter {
+    text-align: center ;
+    font-size: 26px;
+    font-family: 'Oswald', sans-serif;
+    
+    
+
+}
+#Shrek{
+    max-width: 240px;
+    width: 100%;
+    display: block;
+    margin: 0 auto;
+    transition: .2s ease;
+    
+    }
+.nadpis{
+    text-align:center;
+    
+
+}
+body {
+   background: url("../img/Shrek.jpg");
+   background-size: cover;
+   background-repeat: no-repeat;
+   
+}
+button {
+    border: none;
+    font-size: 36px;
+    display: table;
+    margin: 0 auto;
+    color: rgb(255, 255, 255);
+    background: rgba(0, 0, 0, 5);
+    transition: .2s ease;
+    cursor: pointer;
+}
