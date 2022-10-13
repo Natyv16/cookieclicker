@@ -11,8 +11,8 @@ let clickupgradePrice = 50;
 let clickupgradeIncrease = 1;
 
 // ()  => - arrow function
-Shreks.onclick = () => {
-    Shrek++;
+Shrek.onclick = () => {
+    Shreks++;
     counter.innerHTML = Shreks;
 
 }
